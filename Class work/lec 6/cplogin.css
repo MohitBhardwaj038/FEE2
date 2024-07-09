@@ -1,0 +1,27 @@
+
+.main{
+    border-style: groove;
+    margin-left: 440px;
+    padding-left: 30px;
+    margin-right: 440px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 90px;
+    
+}
+.main input{
+    width: 250px;
+}
+.main select{
+    width: 258px;
+}
+.main button{
+    width: 258px;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: brown;
+    border-style: none;
+}
+.power{
+   font-size: 20px;
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(224, 217, 206);
+}
+.first,.last{
+    float: left;
+    
+}
+.last{
+    margin-left: 50px;
+}
+
+#input{
+    width: 355px;
+}
+#country{
+    width: 173px;
+}
+.heading{
+    font-size: 40px;
+
+}
+.main{
+    border-style: groove;
+    border-radius: 5px;
+    border-color: black;
+    background-color: rgb(255, 255, 255);
+    margin: 70px 300px 70px 300px;
+}
