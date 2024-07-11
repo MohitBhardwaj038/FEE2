@@ -1,13 +1,19 @@
 
+body{
+    background-image: url(Chitkara_University_pic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
 .main{
     border-style: groove;
-    margin-left: 440px;
+    margin-left: 700px;
     padding-left: 30px;
-    margin-right: 440px;
+    margin-right: 185px;
     padding-top: 30px;
     padding-bottom: 30px;
     margin-top: 90px;
-    
+    background-color: #ffffff;
 }
 .main input{
     width: 250px;
@@ -24,4 +30,7 @@
 }
 .power{
    font-size: 20px;
+}
+#imag{
+    margin-left: 50px;
 }
