@@ -1,0 +1,32 @@
+/* universal selector */
+
+*{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* id selector */
+#fruits{
+    color: red;
+    border: 2px solid green;
+}
+
+/* class selector */
+
+.a1{
+    color: green;
+    text-decoration: line-through;
+    font-weight: 300;
+}
+
+/* element selector */
+
+p{
+    background-color: pink;
+}
+/* attribute selector */
+
+input[type="text"]{
+    background-color: rgb(46, 40, 29);
+    
+}
