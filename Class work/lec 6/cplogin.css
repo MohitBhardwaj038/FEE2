@@ -1,15 +1,21 @@
 
 body{
     background-image: url(Chitkara_University_pic.jpg);
-    background-repeat: no-repeat;
     background-size: cover;
-
+  
+    margin: 0;
+}
+nav{
+    background-color: red;
+    height: 10px;
+    display: flex;
+   
 }
 .main{
     border-style: groove;
     margin-left: 700px;
     padding-left: 30px;
-    margin-right: 185px;
+    margin-right: 300px;
     padding-top: 30px;
     padding-bottom: 30px;
     margin-top: 90px;
